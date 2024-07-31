@@ -5,3 +5,6 @@ main = "src/index.ts"
 
 [dev]
 port = 3000
+
+[placement]
+mode = "smart"
